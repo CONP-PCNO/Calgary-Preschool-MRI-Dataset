@@ -41,7 +41,7 @@
       		]
         }
     ],
-    "description": "Full data from a large, longitudinal study of childhood brain development conducted in Calgary, Alberta, Canada. The dataset includes datasets from 143 subjects with 1 to 28 sessions each (679 datasets total). Participant ages range from 2 to 13 years old, with appointments taking place between 2013 and 2014. All subjects were scanned on a 3T GE MR 750w MRI system, and were invited back annually for follow-up appointments. MRI modalities included are: T1w, T2w, dwi (b=750 and b=2000), resting state fMRI, ihMT, and ASL. Participants also completed regular cognitive assessments, data available upon request.",
+    "description": "Full data from a large, longitudinal study of childhood brain development conducted in Calgary, Alberta, Canada. The dataset includes datasets from 143 subjects with 1 to 28 sessions each (679 datasets total). Participant ages range from 2 to 13 years old, with appointments taking place between 2013 and 2024. All subjects were scanned on a 3T GE MR 750w MRI system, and were invited back annually for follow-up appointments. MRI modalities included are: T1w, T2w, dwi (b=750 and b=2000), resting state fMRI, ihMT, and ASL. Participants also completed regular cognitive assessments, data available upon request.",
     "privacy": "open",
 	"version": "1.0 - 2026-02-23",
     "licenses": [
